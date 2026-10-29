@@ -14,16 +14,6 @@ This repository contains learning materials and practical exercises for studying
 - Cloud Platforms and Services
 - Practical Exercises and Projects
 
-## Repository Structure
-```text
-CS63717_CC/
-├── notes/          # Lecture notes and study materials
-├── assignments/    # Course assignments
-├── exercises/      # Practical exercises and examples
-├── projects/       # Cloud computing projects
-└── README.md       # Repository documentation
-```
-
 *Note: The directory structure may be updated as course materials are added.*
 
 ## Objectives
